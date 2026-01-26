@@ -1,0 +1,8 @@
+{
+  "name": "matt-test",
+  "description": "A sample plugin with a greeting skill, hello command, and helper agent.",
+  "version": "1.0.0",
+  "author": {
+    "name": "matt"
+  }
+}
