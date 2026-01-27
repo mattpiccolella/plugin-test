@@ -1,0 +1,8 @@
+{
+  "name": "quantum-fox",
+  "description": "A quantum-powered plugin with probabilistic utilities and cunning commands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "matt"
+  }
+}
