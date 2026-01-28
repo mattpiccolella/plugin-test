@@ -36,15 +36,6 @@
       }
     },
     {
-      "name": "steel-penguin",
-      "source": "./plugins/steel-penguin",
-      "description": "A resilient plugin with sturdy utilities and steadfast commands.",
-      "version": "1.0.0",
-      "author": {
-        "name": "matt"
-      }
-    },
-    {
       "name": "turbo-parrot",
       "source": "./plugins/turbo-parrot",
       "description": "A high-speed plugin with rapid-fire utilities and echo commands.",
