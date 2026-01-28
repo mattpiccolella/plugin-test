@@ -21,7 +21,7 @@
       "name": "cosmic-llama",
       "source": "./plugins/cosmic-llama",
       "description": "A cosmic-themed plugin with stellar utilities and astral commands.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "matt"
       }
@@ -57,6 +57,15 @@
       "name": "turbo-parrot",
       "source": "./plugins/turbo-parrot",
       "description": "A high-speed plugin with rapid-fire utilities and echo commands.",
+      "version": "1.0.0",
+      "author": {
+        "name": "matt"
+      }
+    },
+    {
+      "name": "silver-hawk",
+      "source": "./plugins/silver-hawk",
+      "description": "A swift silver-themed plugin with sharp utilities and keen commands.",
       "version": "1.0.0",
       "author": {
         "name": "matt"
