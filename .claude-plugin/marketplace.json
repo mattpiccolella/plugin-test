@@ -27,17 +27,8 @@
       }
     },
     {
-      "name": "neon-badger",
-      "source": "./plugins/neon-badger",
-      "description": "A bold neon-themed plugin with flashy utilities and bright commands.",
-      "version": "1.0.0",
-      "author": {
-        "name": "matt"
-      }
-    },
-    {
-      "name": "quantum-fox",
-      "source": "./plugins/quantum-fox",
+      "name": "quantum-fox-edit",
+      "source": "./plugins/quantum-fox-edit",
       "description": "A quantum-powered plugin with probabilistic utilities and cunning commands.",
       "version": "1.0.0",
       "author": {
