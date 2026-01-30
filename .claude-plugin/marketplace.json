@@ -21,7 +21,7 @@
       "name": "cosmic-llama",
       "source": "./plugins/cosmic-llama",
       "description": "A cosmic-themed plugin with stellar utilities and astral commands.",
-      "version": "2.1.0",
+      "version": "3.0.0",
       "author": {
         "name": "matt"
       }
